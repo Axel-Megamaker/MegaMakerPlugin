@@ -1,7 +1,6 @@
 # MegaMaker Plugin för Duet Web Control
 
-## Kom igång
-Öpnna upp en terminal och gå till mappen där du vill installera DWC
+Öppna upp en terminal och gå till mappen där du vill installera DWC
 1. git clone https://github.com/Duet3D/DuetWebControl.git
 2. npm install   |  För att installera dependencies.
 3. cd DuetWebControl\src\plugins | för att komma till mappen plugins
