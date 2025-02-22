@@ -1,6 +1,5 @@
 'use strict'
 
-import { injectComponent } from "..";
 import { registerRoute } from '@/routes';
 
 import MegaMaker from "./MegaMaker.vue"
@@ -11,7 +10,7 @@ registerRoute(MegaMaker, {
         MegaMaker: {
             icon: 'mdi-size-m',
             caption: 'MegaMaker',
-            path: '/Plugins/MegaMaker',
+            path: '/Plugins/MegaMaker'
         },
     },
 });
